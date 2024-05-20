@@ -7,11 +7,12 @@
   
   }
   body{
+    margin-top:  50px;
       width: 100%;
       height: 100vh;
       display: flex;
       justify-content:center;
-      background-color:#949ce0 ;
+      background-color:#eeebeb ;
   }
   
   .container{
