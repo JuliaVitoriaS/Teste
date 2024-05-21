@@ -13,6 +13,7 @@
       display: flex;
       justify-content:center;
       background-color:#eeebeb ;
+    
   }
   
   .container{
@@ -20,6 +21,7 @@
       height: 80vh;
       display: flex;
       box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
+    
       
   }
   
@@ -30,6 +32,7 @@
       align-items: center;
       background-color: #00095b;
       padding:1rem;
+     
   
   }
   
@@ -59,7 +62,7 @@
       width: 100%;
       padding: 10px 0;
       font-size: 16px;
-      color:white
+      color:rgb(0, 0, 0)
   }
   
   input{
@@ -68,8 +71,28 @@
       background: transparent;
       border: none;
       outline: none;
-      border-bottom: 1px solid black;
+      border-bottom: 1.5px solid black; /*muda o tamanho da barra de digitazão*/
       align-items: center;
       justify-content: center;
   }
   
+
+ .container-button{
+    margin-top: 20px;
+    margin-bottom: 20%;
+    padding: 1.2rem;
+   justify-content: center baseline;
+    width: 100%;
+    height: auto;
+ }
+.login-button{
+    width: 100px;
+    background-color: #4d5498;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+ 
+    
