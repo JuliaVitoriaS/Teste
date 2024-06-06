@@ -140,39 +140,3 @@ input::placeholder {
 
 
 
-@media  (max-width:450px) {
-   
-   
-
-    img{
-      width: 0px;
-    }
-    .titulo-login{
-     
-        font-size: 25px;
-        margin-bottom: 20px;
-        margin-left: 260px;
-    }
-    .btn-login{
-       margin: 0;
-       margin-top: 20px;
-       width: 13rem;
-       margin-left: 80px;
-    }
-    #nome,.label-login{
-        width: 100%;
-        margin-left: 35px;
-      
-        
-    }
-    input{
-        border-bottom: 3px solid black;
-    }
-    
-  
-
-
-}
-@media (min-width:450px) and (max-width:840px){
-
-}
